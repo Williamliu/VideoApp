@@ -19,9 +19,11 @@ namespace WinApp3
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("hello world");
+            MessageBox.Show("hello world111");
             MessageBox.Show("Master");
             MessageBox.Show("Volunteer");
+            MessageBox.Show("Volunteer111");
+            MessageBox.Show("Volunteer222");
 
         }
     }
