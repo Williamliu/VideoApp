@@ -15,6 +15,7 @@ namespace WinApp3
         public Form1()
         {
             InitializeComponent();
+	    echo "hello world";
         }
     }
 }
