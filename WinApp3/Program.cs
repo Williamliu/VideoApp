@@ -17,6 +17,8 @@ namespace WinApp3
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+//可视对讲饭卡圣诞节  
+//水电开发甲胺磷
         }
     }
 }
